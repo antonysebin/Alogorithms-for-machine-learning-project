@@ -1,5 +1,4 @@
 # Alogorithms-for-machine-learning-project
-# algorithms-machine-learning-projects
 The Aim Of The Project
 1. Strategy: matching the problem with the solution
 2. Dataset preparation and preprocessing
